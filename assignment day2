@@ -8,10 +8,10 @@ margin-left: 50%
   }
  </style>
 <body>
-Student Name: Nchimunya Tembo
-Corhort : August 2024
-Assignment Number 2
-Course Name:Software Engineering
+Student Name: Nchimunya Tembo <br>
+Corhort : August 2024<br>
+Assignment Number 2<br>
+Course Name:Software Engineering<br>
 Institution :PLP
 <h1>LIST OF QUESTION</h1>
 # se-day-2-git-and-github
